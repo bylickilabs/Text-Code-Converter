@@ -1,5 +1,5 @@
-|[![Pylint](https://github.com/bylickilabs/Text-Code-Converter/actions/workflows/pylint.yml/badge.svg)](https://github.com/bylickilabs/Text-Code-Converter/actions/workflows/pylint.yml)|
-|---|
+|[![Pylint](https://github.com/bylickilabs/Text-Code-Converter/actions/workflows/pylint.yml/badge.svg)](https://github.com/bylickilabs/Text-Code-Converter/actions/workflows/pylint.yml)| [![VirusTotal](https://img.shields.io/badge/VirusTotal-scan-green?logo=virustotal)](https://www.virustotal.com/gui/url/5035193660156fb05481dd7f3c9b8cd8a2572b4d352cd4b87f2eb210140946e6?nocache=1) |
+|---|---|
 
 # 🧠 Text ⇄ Code Konverter (GUI)
 
