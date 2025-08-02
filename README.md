@@ -1,3 +1,6 @@
+|[![Pylint](https://github.com/bylickilabs/Text-Code-Converter/actions/workflows/pylint.yml/badge.svg)](https://github.com/bylickilabs/Text-Code-Converter/actions/workflows/pylint.yml)|
+|---|
+
 # 🧠 Text ⇄ Code Converter (GUI)
 
 A fully offline-capable Python application for converting text to ASCII, binary, hex, and decimal – and back. The GUI includes dark/light mode, multilingual support, GitHub integration and an animated info dialog with your logo.
