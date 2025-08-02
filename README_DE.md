@@ -2,6 +2,11 @@
 
 Dies ist eine vollständig lokal ausführbare Python-Anwendung zum Umwandeln von Text in ASCII, Binär, Hexadezimal und Dezimal – inklusive Rückkonvertierung. Die Anwendung bietet eine moderne grafische Oberfläche, Sprachumschaltung, Dark-/Light-Mode und GitHub-Integration.
 
+| <img width="891" height="623" alt="1" src="https://github.com/user-attachments/assets/96c8e451-4080-4e8d-be18-c8ef6326982d" /> | <img width="889" height="622" alt="2" src="https://github.com/user-attachments/assets/91157899-261c-4766-acac-8ca2e634d890" /> |
+|---|---|
+
+---
+
 ## 🚀 Funktionen
 
 - Text → ASCII, BIN, HEX, DEC
