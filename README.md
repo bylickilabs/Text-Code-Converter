@@ -2,6 +2,11 @@
 
 A fully offline-capable Python application for converting text to ASCII, binary, hex, and decimal – and back. The GUI includes dark/light mode, multilingual support, GitHub integration and an animated info dialog with your logo.
 
+| <img width="891" height="623" alt="1" src="https://github.com/user-attachments/assets/96c8e451-4080-4e8d-be18-c8ef6326982d" /> | <img width="889" height="622" alt="2" src="https://github.com/user-attachments/assets/91157899-261c-4766-acac-8ca2e634d890" /> |
+|---|---|
+
+---
+
 ## 🚀 Features
 
 - Text → ASCII, BIN, HEX, DEC
