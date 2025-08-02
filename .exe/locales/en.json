@@ -1,0 +1,20 @@
+{
+  "title": "Text ⇄ Code Converter | Powered by BYLICKILABS | v1.0 - 08/02/2025",
+  "input_label": "Input Text",
+  "output_label": "Converted Output",
+  "copy": "Copy",
+  "clear": "Clear",
+  "lang_switch": "Switch Language",
+  "dark_mode": "Dark Mode",
+  "light_mode": "Light Mode",
+  "info": "Info",
+  "info_text": "🛡️ Text ⇄ Code Converter Suite\n\nConvert your text instantly into ASCII, Binary, Hexadecimal or Decimal and back again.\n\n- Live conversion\n- Multilingual GUI (EN/DE)\n- Dark & Light mode\n- Local only, no cloud, no tracking\n\n\nDeveloped by ©Thorsten Bylicki - ©BYLICKILABS",
+  "to_ascii": "Text → ASCII",
+  "to_bin": "Text → Binary",
+  "to_hex": "Text → Hex",
+  "to_dec": "Text → Decimal",
+  "ascii_to_text": "ASCII → Text",
+  "bin_to_text": "Binary → Text",
+  "hex_to_text": "Hex → Text",
+  "dec_to_text": "Decimal → Text"
+}
